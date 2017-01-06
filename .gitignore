@@ -1,0 +1,8 @@
+###############
+Remove for repo
+###############
+
+.project
+node_modules/
+log/
+DB/data/
